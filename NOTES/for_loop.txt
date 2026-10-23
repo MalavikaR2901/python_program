@@ -1,0 +1,6 @@
+A for loop is used to iterating over a sequence. 
+For variable in iterable:
+statement
+
+for i in range (1,10,2)
+print(i)
